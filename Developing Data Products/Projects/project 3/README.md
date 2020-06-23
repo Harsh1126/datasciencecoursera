@@ -3,6 +3,8 @@ This peer assessed assignment has two parts. First, you will create a Shiny appl
 
 Shiny Application: https://r2po.shinyapps.io/course_project_shiny_appreproducible_pitch/
 
+Presentation: https://github.com/ashugandhi/datasciencecoursera/blob/master/Developing%20Data%20Products/Projects/project%203/presentation.html
+
 
 ## Description
 
